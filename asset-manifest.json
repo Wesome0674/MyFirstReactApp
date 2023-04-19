@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactApp/static/css/main.df731625.css",
+    "main.js": "/MyFirstReactApp/static/js/main.a4979781.js",
+    "static/media/chaussure2.png": "/MyFirstReactApp/static/media/chaussure2.7f129b57dd1fa81edc7f.png",
+    "static/media/chaussure1.png": "/MyFirstReactApp/static/media/chaussure1.04a598f8ff143dd1f453.png",
+    "static/media/chaussure5.png": "/MyFirstReactApp/static/media/chaussure5.36ab0795de11c7290496.png",
+    "static/media/chaussure4.png": "/MyFirstReactApp/static/media/chaussure4.d5e5c7ce146b2197536b.png",
+    "static/media/chaussure3.png": "/MyFirstReactApp/static/media/chaussure3.5bcc10b16b6d2a281a66.png",
+    "static/media/menu.png": "/MyFirstReactApp/static/media/menu.a633845bca57a0d1a648.png",
+    "static/media/shop.svg": "/MyFirstReactApp/static/media/shop.c5cc81d47bd951cf31318cc39298279c.svg",
+    "index.html": "/MyFirstReactApp/index.html",
+    "static/media/logo.svg": "/MyFirstReactApp/static/media/logo.200479c017ad8bffdef43133d3e96e16.svg",
+    "static/media/search.svg": "/MyFirstReactApp/static/media/search.af69b657b1a55cc3c40b84adfd1caa8a.svg",
+    "main.df731625.css.map": "/MyFirstReactApp/static/css/main.df731625.css.map",
+    "main.a4979781.js.map": "/MyFirstReactApp/static/js/main.a4979781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df731625.css",
+    "static/js/main.a4979781.js"
+  ]
+}
